@@ -3,6 +3,8 @@ Project exploring trends in functional impairment, and any differences between r
 
 This project is based on data from the [Americans' Changing Lives (ACL)](https://acl.isr.umich.edu/for-researchers/) survey series.
 
+Note: based on TermsOfUse, ACL survey data is not uploaded online. To access, follow link above.
+
 ## Files
 
 ### Trends_In_Functional_Impairment.Rmd
